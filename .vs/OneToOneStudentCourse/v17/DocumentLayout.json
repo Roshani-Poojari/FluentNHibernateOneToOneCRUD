@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\roshani.poojari\\Desktop\\Training\\OneToOneStudentCourse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38EDEF74-790F-4567-BCA7-8A857EA183AF}|OneToOneStudentCourse\\OneToOneStudentCourse.csproj|c:\\users\\roshani.poojari\\desktop\\training\\onetoonestudentcourse\\onetoonestudentcourse\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EDEF74-790F-4567-BCA7-8A857EA183AF}|OneToOneStudentCourse\\OneToOneStudentCourse.csproj|solutionrelative:onetoonestudentcourse\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EDEF74-790F-4567-BCA7-8A857EA183AF}|OneToOneStudentCourse\\OneToOneStudentCourse.csproj|C:\\Users\\roshani.poojari\\Desktop\\Training\\OneToOneStudentCourse\\onetoonestudentcourse\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EDEF74-790F-4567-BCA7-8A857EA183AF}|OneToOneStudentCourse\\OneToOneStudentCourse.csproj|solutionrelative:onetoonestudentcourse\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EDEF74-790F-4567-BCA7-8A857EA183AF}|OneToOneStudentCourse\\OneToOneStudentCourse.csproj|C:\\Users\\roshani.poojari\\Desktop\\Training\\OneToOneStudentCourse\\onetoonestudentcourse\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EDEF74-790F-4567-BCA7-8A857EA183AF}|OneToOneStudentCourse\\OneToOneStudentCourse.csproj|solutionrelative:onetoonestudentcourse\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EDEF74-790F-4567-BCA7-8A857EA183AF}|OneToOneStudentCourse\\OneToOneStudentCourse.csproj|C:\\Users\\roshani.poojari\\Desktop\\Training\\OneToOneStudentCourse\\onetoonestudentcourse\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38EDEF74-790F-4567-BCA7-8A857EA183AF}|OneToOneStudentCourse\\OneToOneStudentCourse.csproj|solutionrelative:onetoonestudentcourse\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\roshani.poojari\\Desktop\\Training\\OneToOneStudentCourse\\OneToOneStudentCourse\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "OneToOneStudentCourse\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\roshani.poojari\\Desktop\\Training\\OneToOneStudentCourse\\OneToOneStudentCourse\\Models\\Student.cs",
+              "RelativeToolTip": "OneToOneStudentCourse\\Models\\Student.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T04:51:42.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\roshani.poojari\\Desktop\\Training\\OneToOneStudentCourse\\OneToOneStudentCourse\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "OneToOneStudentCourse\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\roshani.poojari\\Desktop\\Training\\OneToOneStudentCourse\\OneToOneStudentCourse\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "OneToOneStudentCourse\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAWwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:34:51.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\roshani.poojari\\Desktop\\Training\\OneToOneStudentCourse\\OneToOneStudentCourse\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "OneToOneStudentCourse\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\roshani.poojari\\Desktop\\Training\\OneToOneStudentCourse\\OneToOneStudentCourse\\Models\\Course.cs",
+              "RelativeToolTip": "OneToOneStudentCourse\\Models\\Course.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T04:52:23.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\roshani.poojari\\Desktop\\Training\\OneToOneStudentCourse\\OneToOneStudentCourse\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "OneToOneStudentCourse\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\roshani.poojari\\Desktop\\Training\\OneToOneStudentCourse\\OneToOneStudentCourse\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "OneToOneStudentCourse\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T04:37:29.003Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
